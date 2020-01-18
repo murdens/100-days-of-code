@@ -2,11 +2,11 @@
 
 ### Day 1: January 18, 2019
 
-**Today's Progress**: Installed VM, programmes
+**Today's Progress**: Installed VM, VS, Ruby and  completed first rails app exercise
 
-**Thoughts:** 
+**Thoughts:** Hard slog today getting set up following The Odin Project guide.  At the start of a big learning curve but enjoying the challenge.  Managed some troubleshooting when I created the repo with a readme and the git push failed.  Figured it out so that's a win !
 
-**Link to work:** 
+**Link to work:** [my_first_rails] (https://protected-cliffs-69261.herokuapp.com/cars)
 
 ### Day 0: 
 
